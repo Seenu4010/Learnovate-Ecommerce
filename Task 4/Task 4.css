@@ -1,12 +1,12 @@
 body{
-    font-family:'Courier New', Courier, monospace;
-    background-color: lightskyblue;
+    font-family: Georgia, serif;
+    background-color: rgb(255, 255, 255);
     margin: 0;
     
 }
 h2{
-    background-color: rgb(27, 27, 27);
-    color: white;
+    background-color: rgb(250, 248, 248);
+    color: rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
 }
