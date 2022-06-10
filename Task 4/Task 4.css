@@ -1,11 +1,11 @@
 body{
     font-family: Georgia, serif;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(208, 238, 167);
     margin: 0;
     
 }
 h2{
-    background-color: rgb(250, 248, 248);
+    background-color: rgb(172, 170, 170);
     color: rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
@@ -16,13 +16,13 @@ td{
 input{
     height: 30px;
     border-radius: 10px;
-    border: none;
+    border: rgb(0, 0, 0);
     
 }
 
 input:focus{
-    outline: none;
-    border: 1px solid darkblue;
+    outline: rgb(0, 0, 0);
+    border: thick double #32a1ce;
 }
 input:hover{
     box-shadow: 5px 5px 5px black;
@@ -30,7 +30,7 @@ input:hover{
 
 .button{
     background-color: darkblue;
-    color:#fff;
+    color:rgb(79, 70, 183);
     border: none;
     padding: 7px
 }
